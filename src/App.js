@@ -16,18 +16,21 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
       <TitleBar />
       <Nav />
       <Routes>
-        <HashRouter basename="/" element={<HomePage />} />
+        {/* <HashRouter basename="/" element={<HomePage />} />
         <HashRouter basename="/characters" element={<CharaPage />} />
         <HashRouter basename="/films" element={<FilmsPage />} />
-        <HashRouter basename="/victims" element={<VictimsPage />} />
+        <HashRouter basename="/victims" element={<VictimsPage />} /> */}
+        <Route path="/characters" exact element={<CharaPage />} />
+        <Route path="/films" exact element={<FilmsPage />} />
+        <Route path="/victims" exact element={<VictimsPage />} />
         <Route path="*" element={<Error404 />} />
       </Routes>
       <Footer />
-    </Router>
+    </HashRouter>
   );
 }
 
