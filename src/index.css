@@ -552,5 +552,14 @@ footer > p > a {
 }
 /* #endregion */
 
+/* ERROR404 */ /* #region */
+.error404 > h1 {
+  font-size: 70px;
+  width: 100%;
+  text-align: center;
+}
+
+/* #endregion */
+
 /* CHARACTERS */ /* #region */
 /* #endregion */

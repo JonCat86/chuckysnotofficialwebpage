@@ -4,7 +4,7 @@
     "name": "Chucky",
     "films": "All of them, I'm the star",
     "text": "What can I say about me? I'm smart, I have a  good sense of humor and my mother always said I am very handsome. And nobody can say she was wrong! You only need to look that picture! I love that picture... It's the one I have on my Tinder profile.",
-    "pic": "/assets/images/characters/chucky.png"
+    "pic": "./assets/images/characters/chucky.png"
   },
   {
     "key": "02",
