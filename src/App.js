@@ -1,4 +1,9 @@
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import {
+  BrowserRouter as Router,
+  Route,
+  Routes,
+  HashRouter,
+} from "react-router-dom";
 
 import CharaPage from "./components/CharaPage";
 import FilmsPage from "./components/FilmsPage";
@@ -15,7 +20,7 @@ function App() {
       <TitleBar />
       <Nav />
       <Routes>
-        <Route path={`${process.env.PUBLIC_URL}/`} element={<HomePage />} />
+        <HashRouter basename="/" element={<HomePage />} />
         <Route path="/characters" exact element={<CharaPage />} />
         <Route path="/films" exact element={<FilmsPage />} />
         <Route path="/victims" exact element={<VictimsPage />} />
