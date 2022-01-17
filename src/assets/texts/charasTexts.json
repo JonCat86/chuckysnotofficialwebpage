@@ -1,0 +1,23 @@
+[
+  {
+    "key": "01",
+    "name": "Chucky",
+    "films": "All of them, I'm the star",
+    "text": "What can I say about me? I'm smart, I have a  good sense of humor and my mother always said I am very handsome. And nobody can say she was wrong! You only need to look that picture! I love that picture... It's the one I have on my Tinder profile.",
+    "pic": "/assets/images/characters/chucky.png"
+  },
+  {
+    "key": "02",
+    "name": "Andy (kid)",
+    "films": "Child's Play, Child's Play 2",
+    "text": "Oh, Andy... I HATE that kid. At the beginning was funny but when I discovered that I need him to escape from the doll that bastard didn't cooperate. And 30 years later he's still a pain in my ass. Fuck you Andy!",
+    "pic": "/assets/images/characters/andykid.png"
+  },
+  {
+    "key": "03",
+    "name": "Tiffany",
+    "films": "Bride of Chucky, Seed of Chucky, Cult of Chucky, Chucky(S1)",
+    "text": "She's my lovely wife. The mother of my kids. And for sure there are better pictures of her but I think this one represents the most her normal mood hiahahaheha",
+    "pic": "/assets/images/characters/tiffany.png"
+  }
+]

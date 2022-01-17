@@ -1,0 +1,34 @@
+{
+  "general": {},
+  "home:": {},
+  "characters": {},
+  "films": {},
+  "victims": {
+    "cp": {
+      "01": {
+        "#": "1",
+        "name": "Maggie Peterson",
+        "killer": "CHUCKY",
+        "text": "My first victim since I trapped myself in a doll body. I learned a lot from that experience, for example now I know that she can't fly"
+      },
+      "02": {
+        "#": "1",
+        "name": "Eddie Caputo",
+        "killer": "CHUCKY",
+        "text": "At the beginning he was a good partner but his betrayal and explosive temper finished him off"
+      },
+      "03": {
+        "#": "1",
+        "name": "John Death",
+        "killer": "CHUCKY",
+        "text": "I stabbed his heart with voodoo. I don't know why I never used this technique again"
+      },
+      "04": {
+        "#": "1",
+        "name": "Dr. Ardmore",
+        "killer": "CHUCKY",
+        "text": "He was a little nervous and I decided to apply a calming treatment to him"
+      }
+    }
+  }
+}
