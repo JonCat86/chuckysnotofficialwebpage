@@ -25,11 +25,11 @@ function App() {
       <TitleBar />
       <Nav />
       <Routes>
-        <Route path="/" exact element={<HomePage />} />
+        <Route path="/" element={<HomePage />} />
         <Route path="/characters" exact element={<CharaPage />} />
         <Route path="/films" exact element={<FilmsPage />} />
         <Route path="/victims" exact element={<VictimsPage />} />
-        <Route path="*" exact element={<Error404 />} />
+        <Route path="*" element={<Error404 />} />
       </Routes>
       <Footer />
     </Router>
