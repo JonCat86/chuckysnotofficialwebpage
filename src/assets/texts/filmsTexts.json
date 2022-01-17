@@ -6,7 +6,7 @@
     "wiki": "https://en.wikipedia.org/wiki/Child%27s_Play_(1988_film)",
     "abandon": "https://www.abandomoviez.net/db/pelicula.php?film=21",
     "trailer": "BhU0cCXYqw0",
-    "pic": "/assets/images/films/01_childsplay.png"
+    "pic": "./assets/images/films/01_childsplay.png"
   },
   {
     "title": "CHILD'S PLAY 2",
@@ -15,7 +15,7 @@
     "wiki": "https://en.wikipedia.org/wiki/Child%27s_Play_2",
     "abandon": "https://www.abandomoviez.net/db/pelicula.php?film=22",
     "trailer": "QQ578YDz-sQ",
-    "pic": "/assets/images/films/02_childsplay2.png"
+    "pic": "./assets/images/films/02_childsplay2.png"
   },
   {
     "title": "CHILD'S PLAY 3",
@@ -24,7 +24,7 @@
     "wiki": "https://en.wikipedia.org/wiki/Child%27s_Play_3",
     "abandon": "https://www.abandomoviez.net/db/pelicula.php?film=23",
     "trailer": "934LXPqgFWI",
-    "pic": "/assets/images/films/03_childsplay3.png"
+    "pic": "./assets/images/films/03_childsplay3.png"
   },
   {
     "title": "BRIDE OF CHUCKY",
@@ -33,7 +33,7 @@
     "wiki": "https://en.wikipedia.org/wiki/Bride_of_Chucky",
     "abandon": "https://www.abandomoviez.net/db/pelicula.php?film=24",
     "trailer": "I-WZYQ6nABA",
-    "pic": "/assets/images/films/04_bride.png"
+    "pic": "./assets/images/films/04_bride.png"
   },
   {
     "title": "SEED OF CHUCKY",
@@ -42,7 +42,7 @@
     "wiki": "https://en.wikipedia.org/wiki/Seed_of_Chucky",
     "abandon": "https://www.abandomoviez.net/db/pelicula.php?film=323",
     "trailer": "CKc-mP5xXQY",
-    "pic": "/assets/images/films/05_seed.png"
+    "pic": "./assets/images/films/05_seed.png"
   },
   {
     "title": "CURSE OF CHUCKY",
@@ -51,7 +51,7 @@
     "wiki": "https://en.wikipedia.org/wiki/Child%27s_Play_(1988_film)",
     "abandon": "https://en.wikipedia.org/wiki/Curse_of_Chucky",
     "trailer": "lw8rBxYC1Dw",
-    "pic": "/assets/images/films/06_curse.png"
+    "pic": "./assets/images/films/06_curse.png"
   },
   {
     "title": "CULT OF CHUCKY",
@@ -60,7 +60,7 @@
     "wiki": "https://en.wikipedia.org/wiki/Cult_of_Chucky",
     "abandon": "https://www.abandomoviez.net/db/pelicula.php?film=28070",
     "trailer": "ytcEmtee2OE",
-    "pic": "/assets/images/films/07_cult.png"
+    "pic": "./assets/images/films/07_cult.png"
   },
   {
     "title": "CHUCKY (s1)",
@@ -69,6 +69,6 @@
     "wiki": "https://en.wikipedia.org/wiki/Chucky_(TV_series)",
     "abandon": "https://www.abandomoviez.net/dbs/serie.php?film=3650",
     "trailer": "7xjAaO5NGy0",
-    "pic": "/assets/images/films/08_chucky.png"
+    "pic": "./assets/images/films/08_chucky.png"
   }
 ]
