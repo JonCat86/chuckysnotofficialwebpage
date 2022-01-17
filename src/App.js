@@ -24,10 +24,10 @@ function App() {
         <HashRouter basename="/characters" element={<CharaPage />} />
         <HashRouter basename="/films" element={<FilmsPage />} />
         <HashRouter basename="/victims" element={<VictimsPage />} /> */}
-        <Route path="/" exact element={<HomePage />} />
-        <Route path="/characters" exact element={<CharaPage />} />
-        <Route path="/films" exact element={<FilmsPage />} />
-        <Route path="/victims" exact element={<VictimsPage />} />
+        <Route path="" exact element={<HomePage />} />
+        <Route path="characters" exact element={<CharaPage />} />
+        <Route path="films" exact element={<FilmsPage />} />
+        <Route path="victims" exact element={<VictimsPage />} />
         <Route path="*" element={<Error404 />} />
       </Routes>
       <Footer />
