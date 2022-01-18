@@ -172,7 +172,12 @@ const VictimsPage = () => {
           />
         ))}
       </div>
-      <VictimsMovieTitle title="Chucky (S1)" victims="?" banner={banner8} />
+      <VictimsMovieTitle
+        title="Chucky (S1)"
+        victims="?"
+        banner={banner8}
+        accordion={handleAccordion}
+      />
       <div className="victims-movie-container" style={bg("fb0")}>
         {" "}
         {texts.series1.map((el) => (
