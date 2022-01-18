@@ -1,100 +1,148 @@
-{
-  "cp": [
-    {
-      "key": "1",
-      "name": "Maggie Peterson",
-      "killer": "CHUCKY",
-      "text": "My first victim since I trapped myself in a doll body. I learned a lot from that experience, for example now I know that she can't fly",
-      "pic1": "./assets/images/victims/v01.png",
-      "pic2": "./assets/images/victims/v01d.png"
-    },
-    {
-      "key": "2",
-      "name": "Eddie Caputo",
-      "killer": "CHUCKY",
-      "text": "At the beginning he was a good partner but his betrayal and explosive temper finished him off",
-      "pic1": "./assets/images/victims/v02.png",
-      "pic2": "./assets/images/victims/v02d.png"
-    },
-    {
-      "key": "3",
-      "name": "John Death",
-      "killer": "CHUCKY",
-      "text": "I stabbed his heart with voodoo. I don't know why I never used this technique again",
-      "pic1": "./assets/images/victims/v03.png",
-      "pic2": "./assets/images/victims/v03d.png"
-    },
-    {
-      "key": "4",
-      "name": "Dr. Ardmore",
-      "killer": "CHUCKY",
-      "text": "He was a little nervous and I decided to apply a calming treatment to him",
-      "pic1": "./assets/images/victims/v04.png",
-      "pic2": "./assets/images/victims/v04d.png"
-    }
-  ],
-  "cp2": [
-    {
-      "key": "5",
-      "name": "Technician #1",
-      "killer": "CHUCKY",
-      "text": "Comment",
-      "pic1": "./assets/images/victims/v05.png",
-      "pic2": "./assets/images/victims/v05d.png"
-    },
-    {
-      "key": "6",
-      "name": "Mattson",
-      "killer": "CHUCKY",
-      "text": "Comment",
-      "pic1": "./assets/images/victims/v06.png",
-      "pic2": "./assets/images/victims/v06d.png"
-    },
-    {
-      "key": "7",
-      "name": "Miss Kettlewell",
-      "killer": "CHUCKY",
-      "text": "I don't like teachers in general but especially that bitch. I decided to make her pass a test to 'measure' how many hits she could take. She failed hiahahaha",
-      "pic1": "./assets/images/victims/v07.png",
-      "pic2": "./assets/images/victims/v07d.png"
-    },
-    {
-      "key": "8",
-      "name": "Phil Simpson",
-      "killer": "CHUCKY",
-      "text": "Comment",
-      "pic1": "./assets/images/victims/v08.png",
-      "pic2": "./assets/images/victims/v08d.png"
-    },
-    {
-      "key": "9",
-      "name": "Joanne Simpson",
-      "killer": "CHUCKY",
-      "text": "Comment",
-      "pic1": "./assets/images/victims/v09.png",
-      "pic2": "./assets/images/victims/v09d.png"
-    },
-    {
-      "key": "10",
-      "name": "Grace Poole",
-      "killer": "CHUCKY",
-      "text": "Comment",
-      "pic1": "./assets/images/victims/v10.png",
-      "pic2": "./assets/images/victims/v10d.png"
-    },
-    {
-      "key": "11",
-      "name": "Technician #2",
-      "killer": "CHUCKY",
-      "text": "Comment",
-      "pic1": "./assets/images/victims/v11.png",
-      "pic2": "./assets/images/victims/v11d.png"
-    }
-  ],
-  "cp3": [],
-  "bride": [],
-  "seed": [],
-  "curse": [],
-  "cult": [],
-  "series1": []
-}
+[
+  {
+    "title": "Child's Play",
+    "victimsNumber": "4",
+    "banner": "./assets/images/victims/banners/banner1.png",
+    "bgStyle": "linear-gradient(-90deg, #300 , #050505 60%)",
+    "victims": [
+      {
+        "key": "1",
+        "name": "Maggie Peterson",
+        "killer": "CHUCKY",
+        "text": "My first victim since I trapped myself in a doll body. I learned a lot from that experience, for example now I know that she can't fly",
+        "pic1": "./assets/images/victims/v01.png",
+        "pic2": "./assets/images/victims/v01d.png"
+      },
+      {
+        "key": "2",
+        "name": "Eddie Caputo",
+        "killer": "CHUCKY",
+        "text": "At the beginning he was a good partner but his betrayal and explosive temper finished him off",
+        "pic1": "./assets/images/victims/v02.png",
+        "pic2": "./assets/images/victims/v02d.png"
+      },
+      {
+        "key": "3",
+        "name": "John Death",
+        "killer": "CHUCKY",
+        "text": "I stabbed his heart with voodoo. I don't know why I never used this technique again",
+        "pic1": "./assets/images/victims/v03.png",
+        "pic2": "./assets/images/victims/v03d.png"
+      },
+      {
+        "key": "4",
+        "name": "Dr. Ardmore",
+        "killer": "CHUCKY",
+        "text": "He was a little nervous and I decided to apply a calming treatment to him",
+        "pic1": "./assets/images/victims/v04.png",
+        "pic2": "./assets/images/victims/v04d.png"
+      }
+    ]
+  },
+  {
+    "title": "Child's Play 2",
+    "victimsNumber": "7",
+    "banner": "./assets/images/victims/banners/banner2.png",
+    "bgStyle": "linear-gradient(-90deg, #050505 40%, #300)",
+    "victims": [
+      {
+        "key": "5",
+        "name": "Technician #1",
+        "killer": "CHUCKY",
+        "text": "Comment",
+        "pic1": "./assets/images/victims/v05.png",
+        "pic2": "./assets/images/victims/v05d.png"
+      },
+      {
+        "key": "6",
+        "name": "Mattson",
+        "killer": "CHUCKY",
+        "text": "Comment",
+        "pic1": "./assets/images/victims/v06.png",
+        "pic2": "./assets/images/victims/v06d.png"
+      },
+      {
+        "key": "7",
+        "name": "Miss Kettlewell",
+        "killer": "CHUCKY",
+        "text": "I don't like teachers in general but especially that bitch. I decided to make her pass a test to 'measure' how many hits she could take. She failed hiahahaha",
+        "pic1": "./assets/images/victims/v07.png",
+        "pic2": "./assets/images/victims/v07d.png"
+      },
+      {
+        "key": "8",
+        "name": "Phil Simpson",
+        "killer": "CHUCKY",
+        "text": "Comment",
+        "pic1": "./assets/images/victims/v08.png",
+        "pic2": "./assets/images/victims/v08d.png"
+      },
+      {
+        "key": "9",
+        "name": "Joanne Simpson",
+        "killer": "CHUCKY",
+        "text": "Comment",
+        "pic1": "./assets/images/victims/v09.png",
+        "pic2": "./assets/images/victims/v09d.png"
+      },
+      {
+        "key": "10",
+        "name": "Grace Poole",
+        "killer": "CHUCKY",
+        "text": "Comment",
+        "pic1": "./assets/images/victims/v10.png",
+        "pic2": "./assets/images/victims/v10d.png"
+      },
+      {
+        "key": "11",
+        "name": "Technician #2",
+        "killer": "CHUCKY",
+        "text": "Comment",
+        "pic1": "./assets/images/victims/v11.png",
+        "pic2": "./assets/images/victims/v11d.png"
+      }
+    ]
+  },
+  {
+    "title": "Child's Play 3",
+    "victimsNumber": "?",
+    "banner": "./assets/images/victims/banners/banner3.png",
+    "bgStyle": "linear-gradient(-90deg, #300 , #050505 60%)",
+    "victims": []
+  },
+  {
+    "title": "Bride of Chucky",
+    "victimsNumber": "?",
+    "banner": "./assets/images/victims/banners/banner4.png",
+    "bgStyle": "linear-gradient(-90deg, #050505 40%, #047)",
+    "victims": []
+  },
+  {
+    "title": "Seed of Chucky",
+    "victimsNumber": "?",
+    "banner": "./assets/images/victims/banners/banner5.png",
+    "bgStyle": "linear-gradient(-90deg, #047 , #050505 60%)",
+    "victims": []
+  },
+  {
+    "title": "Curse of Chucky",
+    "victimsNumber": "?",
+    "banner": "./assets/images/victims/banners/banner6.png",
+    "bgStyle": "linear-gradient(-90deg, #fff , #050505 60%)",
+    "victims": []
+  },
+  {
+    "title": "Cult of Chucky",
+    "victimsNumber": "?",
+    "banner": "./assets/images/victims/banners/banner7.png",
+    "bgStyle": "linear-gradient(-90deg, #050505 40%, #fff)",
+    "victims": []
+  },
+  {
+    "title": "Chucky (s1)",
+    "victimsNumber": "?",
+    "banner": "./assets/images/victims/banners/banner8.png",
+    "bgStyle": "linear-gradient(-90deg, #fb0 , #050505 60%)",
+    "victims": []
+  }
+]
