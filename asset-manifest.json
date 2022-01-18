@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/chuckysnotofficialwebpage/static/css/main.4b5b8ee1.css",
-    "main.js": "/chuckysnotofficialwebpage/static/js/main.2a53721a.js",
+    "main.js": "/chuckysnotofficialwebpage/static/js/main.42c2c9e0.js",
     "static/js/787.58de94ea.chunk.js": "/chuckysnotofficialwebpage/static/js/787.58de94ea.chunk.js",
     "static/media/charaposter.png": "/chuckysnotofficialwebpage/static/media/charaposter.bbadc29acca1ce2cdf37.png",
     "static/media/filmsposter.png": "/chuckysnotofficialwebpage/static/media/filmsposter.2e10df17b46bfd705cdc.png",
@@ -18,11 +18,11 @@
     "static/media/filmsbg1.png": "/chuckysnotofficialwebpage/static/media/filmsbg1.16ebdd1202019a664bf3.png",
     "index.html": "/chuckysnotofficialwebpage/index.html",
     "main.4b5b8ee1.css.map": "/chuckysnotofficialwebpage/static/css/main.4b5b8ee1.css.map",
-    "main.2a53721a.js.map": "/chuckysnotofficialwebpage/static/js/main.2a53721a.js.map",
+    "main.42c2c9e0.js.map": "/chuckysnotofficialwebpage/static/js/main.42c2c9e0.js.map",
     "787.58de94ea.chunk.js.map": "/chuckysnotofficialwebpage/static/js/787.58de94ea.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b5b8ee1.css",
-    "static/js/main.2a53721a.js"
+    "static/js/main.42c2c9e0.js"
   ]
 }
