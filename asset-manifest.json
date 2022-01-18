@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chuckysnotofficialwebpage/static/css/main.ebf6a851.css",
-    "main.js": "/chuckysnotofficialwebpage/static/js/main.79f1367c.js",
+    "main.css": "/chuckysnotofficialwebpage/static/css/main.4b5b8ee1.css",
+    "main.js": "/chuckysnotofficialwebpage/static/js/main.2a53721a.js",
     "static/js/787.58de94ea.chunk.js": "/chuckysnotofficialwebpage/static/js/787.58de94ea.chunk.js",
     "static/media/charaposter.png": "/chuckysnotofficialwebpage/static/media/charaposter.bbadc29acca1ce2cdf37.png",
     "static/media/filmsposter.png": "/chuckysnotofficialwebpage/static/media/filmsposter.2e10df17b46bfd705cdc.png",
@@ -12,25 +12,17 @@
     "static/media/counterbg.png": "/chuckysnotofficialwebpage/static/media/counterbg.d1b4f1348618c5c3289d.png",
     "static/media/films-top-pic.png": "/chuckysnotofficialwebpage/static/media/films-top-pic.0749e8f30e236cd5ced9.png",
     "static/media/bloodbg3.png": "/chuckysnotofficialwebpage/static/media/bloodbg3.4fc4b54865e323ba9702.png",
-    "static/media/banner1.png": "/chuckysnotofficialwebpage/static/media/banner1.758d516cd9470e3ecd1c.png",
-    "static/media/banner8.png": "/chuckysnotofficialwebpage/static/media/banner8.181b36781a49be207640.png",
-    "static/media/banner5.png": "/chuckysnotofficialwebpage/static/media/banner5.90d0d0da9f377ae685eb.png",
-    "static/media/banner3.png": "/chuckysnotofficialwebpage/static/media/banner3.f43eb9057c993dba7656.png",
-    "static/media/banner2.png": "/chuckysnotofficialwebpage/static/media/banner2.31431dcccc93b991dbbd.png",
-    "static/media/banner4.png": "/chuckysnotofficialwebpage/static/media/banner4.7178c7a9e7d7ac312931.png",
-    "static/media/banner7.png": "/chuckysnotofficialwebpage/static/media/banner7.d7b98019fcc3909170c8.png",
     "static/media/charabg1.png": "/chuckysnotofficialwebpage/static/media/charabg1.954ad78605a6de702d7c.png",
-    "static/media/banner6.png": "/chuckysnotofficialwebpage/static/media/banner6.83b97c11170c9a7444e0.png",
     "static/media/logounderconstruction.png": "/chuckysnotofficialwebpage/static/media/logounderconstruction.cc31985826a1443df1f7.png",
     "static/media/bgvictim4.png": "/chuckysnotofficialwebpage/static/media/bgvictim4.3ad0134db8d55d587bc6.png",
     "static/media/filmsbg1.png": "/chuckysnotofficialwebpage/static/media/filmsbg1.16ebdd1202019a664bf3.png",
     "index.html": "/chuckysnotofficialwebpage/index.html",
-    "main.ebf6a851.css.map": "/chuckysnotofficialwebpage/static/css/main.ebf6a851.css.map",
-    "main.79f1367c.js.map": "/chuckysnotofficialwebpage/static/js/main.79f1367c.js.map",
+    "main.4b5b8ee1.css.map": "/chuckysnotofficialwebpage/static/css/main.4b5b8ee1.css.map",
+    "main.2a53721a.js.map": "/chuckysnotofficialwebpage/static/js/main.2a53721a.js.map",
     "787.58de94ea.chunk.js.map": "/chuckysnotofficialwebpage/static/js/787.58de94ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebf6a851.css",
-    "static/js/main.79f1367c.js"
+    "static/css/main.4b5b8ee1.css",
+    "static/js/main.2a53721a.js"
   ]
 }
