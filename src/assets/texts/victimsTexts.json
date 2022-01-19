@@ -105,7 +105,7 @@
   },
   {
     "title": "Child's Play 3",
-    "victimsNumber": "?",
+    "victimsNumber": "7",
     "banner": "./assets/images/victims/banners/banner3.png",
     "bgStyle": "linear-gradient(-90deg, #300 , #050505 60%)",
     "victims": [

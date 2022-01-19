@@ -12,14 +12,8 @@ const VictimsMovieTitle = ({
     backgroundImage: `url(${banner})`,
   };
   const bg = () => ({
-    // background: `linear-gradient(-90deg, #${color} , #050505 60%`,
-    // background: `linear-gradient(-90deg, #300 , #050505 60%)`,
     background: `${bgStyle}`,
   });
-  // const bgr = (color) => ({
-  //   background: `linear-gradient(-90deg, #050505 40%, #${color}`,
-  //   background: `linear-gradient(-90deg, #050505 40%, #300)`,
-  // });
 
   return (
     <div className="victims-movie">

@@ -1,5 +1,5 @@
 import texts from "../assets/texts/victimsTexts.json";
-import Counter from "./Counter";
+import VictimsCounter from "./VictimsCounter";
 import VictimsMovie from "./VictimsMovie";
 
 const VictimsPage = () => {
@@ -12,7 +12,7 @@ const VictimsPage = () => {
   };
   return (
     <section className="victims-page">
-      <Counter />
+      <VictimsCounter />
       <div className="victims">
         {texts.map((el) => (
           <VictimsMovie
