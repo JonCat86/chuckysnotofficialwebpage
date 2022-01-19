@@ -108,7 +108,64 @@
     "victimsNumber": "?",
     "banner": "./assets/images/victims/banners/banner3.png",
     "bgStyle": "linear-gradient(-90deg, #300 , #050505 60%)",
-    "victims": []
+    "victims": [
+      {
+        "key": "12",
+        "name": "Haskell Sullivan",
+        "killer": "KILLER",
+        "text": "Comment",
+        "pic1": "./assets/images/victims/v12.png",
+        "pic2": "./assets/images/victims/v12d.png"
+      },
+      {
+        "key": "13",
+        "name": "Garbage Truck Driver",
+        "killer": "KILLER",
+        "text": "Comment",
+        "pic1": "./assets/images/victims/v13.png",
+        "pic2": "./assets/images/victims/v13d.png"
+      },
+      {
+        "key": "14",
+        "name": "Sgt. Botnick",
+        "killer": "KILLER",
+        "text": "Comment",
+        "pic1": "./assets/images/victims/v14.png",
+        "pic2": "./assets/images/victims/v14d.png"
+      },
+      {
+        "key": "15",
+        "name": "Carnival Security Guard",
+        "killer": "KILLER",
+        "text": "Comment",
+        "pic1": "./assets/images/victims/v15.png",
+        "pic2": "./assets/images/victims/v15d.png"
+      },
+      {
+        "key": "16",
+        "name": "Cochrane",
+        "killer": "KILLER",
+        "text": "Comment",
+        "pic1": "./assets/images/victims/v16.png",
+        "pic2": "./assets/images/victims/v16d.png"
+      },
+      {
+        "key": "17",
+        "name": "Bret Shelton",
+        "killer": "KILLER",
+        "text": "Comment",
+        "pic1": "./assets/images/victims/v17.png",
+        "pic2": "./assets/images/victims/v17d.png"
+      },
+      {
+        "key": "18",
+        "name": "Harold Whitehurst",
+        "killer": "KILLER",
+        "text": "Comment",
+        "pic1": "./assets/images/victims/v18.png",
+        "pic2": "./assets/images/victims/v18d.png"
+      }
+    ]
   },
   {
     "title": "Bride of Chucky",
