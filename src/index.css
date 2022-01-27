@@ -458,7 +458,6 @@ nav {
   left: 0;
   cursor: pointer;
   z-index: 2;
-  background-color: blue;
 }
 .victim-card::before {
   content: "";
