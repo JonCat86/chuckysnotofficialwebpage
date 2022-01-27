@@ -384,33 +384,27 @@ nav {
   bottom: 15px;
   left: 364px;
   transform: rotate(-45deg);
-  -webkit-transform: rotate(-45deg);
 }
 .victims-movie-tiltle-icon > span:nth-child(2) {
   bottom: 15px;
   left: 355px;
   transform: rotate(45deg);
-  -webkit-transform: rotate(-45deg);
 }
 .victims-movie-tiltle-icon > span:nth-child(3) {
   bottom: 15px;
   right: 355px;
   transform: rotate(-45deg);
-  -webkit-transform: rotate(-45deg);
 }
 .victims-movie-tiltle-icon > span:nth-child(4) {
   bottom: 15px;
   right: 364px;
   transform: rotate(45deg);
-  -webkit-transform: rotate(45deg);
 }
 .icon-deployed-odd {
   transform: rotate(45deg) !important;
-  -webkit-transform: rotate(45deg) !important;
 }
 .icon-deployed-even {
   transform: rotate(-45deg) !important;
-  -webkit-transform: rotate(-45deg) !important;
 }
 
 .victims-movie-container {
@@ -452,7 +446,6 @@ nav {
   transform-style: preserve-3d;
   transition: all 0.3s ease;
   transform: rotateY(0deg);
-  -webkit-transform: rotateY(0deg);
   text-align: center;
 }
 
@@ -476,7 +469,6 @@ nav {
   cursor: pointer;
   z-index: 2;
   transform: rotateY(180deg);
-  -webkit-transform: rotateY(180deg);
 }
 
 .victim-front,
@@ -498,7 +490,6 @@ nav {
 
 .victim-back {
   transform: rotateY(180deg);
-  -webkit-transform: rotateY(180deg);
   background-image: url("./images/bloodbg1.png");
 }
 
