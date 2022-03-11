@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chuckysnotofficialwebpage/static/css/main.b5babada.css",
-    "main.js": "/chuckysnotofficialwebpage/static/js/main.50f88874.js",
+    "main.css": "/chuckysnotofficialwebpage/static/css/main.460d1e6f.css",
+    "main.js": "/chuckysnotofficialwebpage/static/js/main.0b3ecaa9.js",
     "static/media/bg1.png": "/chuckysnotofficialwebpage/static/media/bg1.0781c3fb325294cde563.png",
     "static/media/victimsposter.png": "/chuckysnotofficialwebpage/static/media/victimsposter.c54aad21a28d3eeecce0.png",
     "static/media/top-pic.png": "/chuckysnotofficialwebpage/static/media/top-pic.151765356da0583034a5.png",
@@ -17,11 +17,11 @@
     "static/media/bgvictim1.png": "/chuckysnotofficialwebpage/static/media/bgvictim1.3ad0134db8d55d587bc6.png",
     "static/media/filmsbg1.png": "/chuckysnotofficialwebpage/static/media/filmsbg1.16ebdd1202019a664bf3.png",
     "index.html": "/chuckysnotofficialwebpage/index.html",
-    "main.b5babada.css.map": "/chuckysnotofficialwebpage/static/css/main.b5babada.css.map",
-    "main.50f88874.js.map": "/chuckysnotofficialwebpage/static/js/main.50f88874.js.map"
+    "main.460d1e6f.css.map": "/chuckysnotofficialwebpage/static/css/main.460d1e6f.css.map",
+    "main.0b3ecaa9.js.map": "/chuckysnotofficialwebpage/static/js/main.0b3ecaa9.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5babada.css",
-    "static/js/main.50f88874.js"
+    "static/css/main.460d1e6f.css",
+    "static/js/main.0b3ecaa9.js"
   ]
 }
