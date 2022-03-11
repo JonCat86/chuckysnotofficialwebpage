@@ -1,0 +1,50 @@
+.film {
+  width: 800px;
+  height: 450px;
+  display: flex;
+  border-radius: 0 25px 0 25px;
+  border: 3px solid #ccc;
+  overflow: hidden;
+  background-image: url("../../images/bgfilm.jpg");
+  background-size: 100%;
+}
+
+.film > img {
+  width: 40%;
+  height: 100%;
+  border-right: 2px solid #ddd;
+}
+
+.film-right {
+  width: 60%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 40px;
+}
+
+.film-text {
+  width: 100%;
+  text-align: center;
+}
+
+.film-text h2 {
+  font-size: 60px;
+  line-height: 65px;
+}
+
+.film-text p {
+  line-height: 30px;
+  font-size: 22px;
+}
+
+.film-btns {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}

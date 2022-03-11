@@ -1,0 +1,21 @@
+.films-page {
+  width: 1000px;
+  margin: auto;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 25px;
+  background-image: url("../../images/filmsbg1.png");
+}
+
+.films-top-pic {
+  width: 100%;
+  height: 250px;
+  position: relative;
+  text-align: center;
+}
+
+.films-top-pic > img {
+  width: 750px;
+}

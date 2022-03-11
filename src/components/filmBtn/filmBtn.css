@@ -1,0 +1,26 @@
+.film-btn {
+  width: 140px;
+  height: 30px;
+  font-size: 20px;
+  background-color: transparent;
+  position: relative;
+  border: 2px solid #ddd8;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+a {
+  color: #bbb;
+}
+
+.film-btn:hover {
+  background-color: #0007;
+  border: 2px solid #ddd;
+  transition: all 0.6s ease-in-out;
+}
+
+.film-btn:hover > a {
+  transition: all 0.6s ease-in-out;
+  color: #ddd;
+}

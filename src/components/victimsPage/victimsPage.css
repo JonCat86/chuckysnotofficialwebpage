@@ -1,0 +1,9 @@
+.victims-page {
+  padding-bottom: 40px;
+}
+
+.victims {
+  width: 1000px;
+  display: flex;
+  flex-direction: column;
+}

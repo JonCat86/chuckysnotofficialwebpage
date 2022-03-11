@@ -1,13 +1,13 @@
 import { Route, Routes, HashRouter } from "react-router-dom";
 
-import CharaPage from "./components/CharaPage";
-import FilmsPage from "./components/FilmsPage";
-import HomePage from "./components/HomePage";
-import VictimsPage from "./components/VictimsPage";
-import Error404 from "./components/Error404";
-import Nav from "./components/Nav";
-import TitleBar from "./components/TitleBar";
-import Footer from "./components/Footer";
+import CharaPage from "./components/charaPage/CharaPage";
+import FilmsPage from "./components/filmsPage/FilmsPage";
+import HomePage from "./components/homePage/HomePage";
+import VictimsPage from "./components/victimsPage/VictimsPage";
+import Error404 from "./components/error404/Error404";
+import Nav from "./components/nav/Nav";
+import TitleBar from "./components/titleBar/TitleBar";
+import Footer from "./components/footer/Footer";
 
 function App() {
   return (
