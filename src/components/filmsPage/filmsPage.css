@@ -1,5 +1,6 @@
 .films-page {
-  width: 1000px;
+  width: 100%;
+  max-width: 1000px;
   margin: auto;
   padding: 40px;
   display: flex;
@@ -18,4 +19,21 @@
 
 .films-top-pic > img {
   width: 750px;
+}
+
+@media screen and (max-width: 767px) {
+  .films-page {
+    gap: 15px;
+  }
+
+  .films-top-pic {
+    width: 100%;
+    height: 110px;
+    position: relative;
+    text-align: center;
+  }
+
+  .films-top-pic > img {
+    width: 320px;
+  }
 }

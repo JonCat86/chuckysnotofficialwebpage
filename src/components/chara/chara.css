@@ -38,3 +38,23 @@
   font-size: 20px;
   font-style: italic;
 }
+
+@media screen and (max-width: 767px) {
+  .chara {
+    min-width: 340px;
+    height: 378px;
+    padding: 8px;
+  }
+
+  .chara-name {
+    font-size: 30px;
+  }
+
+  .chara-films {
+    font-size: 16px;
+  }
+
+  .chara-comment {
+    font-size: 18px;
+  }
+}

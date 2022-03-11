@@ -1,5 +1,6 @@
 .victims-movie-title {
-  width: 1000px;
+  width: 100%;
+  max-width: 1000px;
   height: 95px;
   position: relative;
   text-align: center;
@@ -94,4 +95,56 @@
   max-height: 3000px;
   padding-top: 20px;
   padding-bottom: 10px;
+}
+
+@media screen and (max-width: 767px) {
+  .victims-movie-title {
+    height: 95px;
+  }
+
+  .victims-movie-title::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+  }
+
+  .victims-movie-title > h2 {
+    font-size: 34px;
+  }
+
+  .victims-movie-tiltle-icon > span {
+    width: 15px;
+    height: 4px;
+    background-color: #ddd;
+    position: absolute;
+    pointer-events: none;
+    transition: all 0.8s ease;
+  }
+
+  .victims-movie-tiltle-icon > span:nth-child(1) {
+    bottom: 15px;
+    left: calc(50% + 130px);
+    transform: rotate(-45deg);
+  }
+
+  .victims-movie-tiltle-icon > span:nth-child(2) {
+    bottom: 15px;
+    left: calc(50% + 121px);
+    transform: rotate(45deg);
+  }
+
+  .victims-movie-tiltle-icon > span:nth-child(3) {
+    bottom: 15px;
+    right: calc(50% + 121px);
+    transform: rotate(-45deg);
+  }
+
+  .victims-movie-tiltle-icon > span:nth-child(4) {
+    bottom: 15px;
+    right: calc(50% + 130px);
+    transform: rotate(45deg);
+  }
 }

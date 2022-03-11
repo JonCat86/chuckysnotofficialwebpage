@@ -24,3 +24,11 @@ a {
   transition: all 0.6s ease-in-out;
   color: #ddd;
 }
+
+@media screen and (max-width: 767px) {
+  .film-btn {
+    width: 120px;
+    height: 28px;
+    font-size: 18px;
+  }
+}

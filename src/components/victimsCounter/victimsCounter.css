@@ -1,5 +1,6 @@
 .counter {
-  width: 1000px;
+  width: 100%;
+  max-width: 1000px;
   height: 400px;
   margin: auto;
   display: flex;
@@ -22,4 +23,29 @@
   position: absolute;
   height: 200px;
   right: 20px;
+}
+
+@media screen and (max-width: 767px) {
+  .counter {
+    width: 100%;
+    max-width: 1000px;
+    height: 250px;
+    margin: auto;
+    background-size: 190%;
+    background-position-x: +50%;
+  }
+
+  .counter > h2 {
+    font-size: 150px;
+  }
+
+  .counter > p {
+    font-size: 40px;
+  }
+
+  .counter > img {
+    position: absolute;
+    height: 200px;
+    right: 20px;
+  }
 }

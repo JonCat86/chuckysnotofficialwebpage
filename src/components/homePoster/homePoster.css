@@ -71,3 +71,14 @@
   transition: 1s;
   opacity: 0.3;
 }
+
+@media screen and (max-width: 767px) {
+  .home-poster {
+    width: 350px;
+    height: 140px;
+  }
+
+  .home-poster > h2 {
+    font-size: 40px;
+  }
+}
