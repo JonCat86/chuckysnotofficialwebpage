@@ -46,15 +46,22 @@
     padding: 8px;
   }
 
+  .chara > img {
+    width: 40%;
+    border-radius: 50%;
+    border: 3px solid #ddd;
+    background-color: blue;
+  }
+
   .chara-name {
-    font-size: 30px;
+    font-size: 25px;
   }
 
   .chara-films {
-    font-size: 16px;
+    font-size: 14px;
   }
 
   .chara-comment {
-    font-size: 18px;
+    font-size: 16px;
   }
 }

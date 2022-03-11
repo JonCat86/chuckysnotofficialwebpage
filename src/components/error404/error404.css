@@ -18,7 +18,7 @@ h1 {
   text-align: center;
 }
 
-button {
+.error404 > button {
   width: 250px;
   height: 40px;
   font-size: 20px;
@@ -28,10 +28,10 @@ button {
   margin-top: 20px;
 }
 
-button > .hp-link {
+.error404 > button > .hp-link {
   color: black;
 }
 
-button:hover > .hp-link {
+.error404 > button:hover > .hp-link {
   font-size: 20.5px;
 }

@@ -1,5 +1,6 @@
 .chara-page {
-  width: 1000px;
+  width: 100%;
+  max-width: 1000px;
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
@@ -20,15 +21,13 @@
 }
 
 @media screen and (max-width: 767px) {
-  .chara-page {
-    width: 100%;
-    gap: 10px;
-    padding-bottom: 30px;
-  }
-
   .chara-top {
     width: 100%;
     max-width: 600px;
+    margin: auto;
+    height: 100px;
+    background-size: 110%;
+    background-position-x: +50%;
     background-image: url("../../images/top-pic.png");
   }
 }
