@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/chuckysnotofficialwebpage/static/css/main.460d1e6f.css",
+    "main.css": "/chuckysnotofficialwebpage/static/css/main.e1032c83.css",
     "main.js": "/chuckysnotofficialwebpage/static/js/main.0b3ecaa9.js",
     "static/media/bg1.png": "/chuckysnotofficialwebpage/static/media/bg1.0781c3fb325294cde563.png",
     "static/media/victimsposter.png": "/chuckysnotofficialwebpage/static/media/victimsposter.c54aad21a28d3eeecce0.png",
@@ -17,11 +17,11 @@
     "static/media/bgvictim1.png": "/chuckysnotofficialwebpage/static/media/bgvictim1.3ad0134db8d55d587bc6.png",
     "static/media/filmsbg1.png": "/chuckysnotofficialwebpage/static/media/filmsbg1.16ebdd1202019a664bf3.png",
     "index.html": "/chuckysnotofficialwebpage/index.html",
-    "main.460d1e6f.css.map": "/chuckysnotofficialwebpage/static/css/main.460d1e6f.css.map",
+    "main.e1032c83.css.map": "/chuckysnotofficialwebpage/static/css/main.e1032c83.css.map",
     "main.0b3ecaa9.js.map": "/chuckysnotofficialwebpage/static/js/main.0b3ecaa9.js.map"
   },
   "entrypoints": [
-    "static/css/main.460d1e6f.css",
+    "static/css/main.e1032c83.css",
     "static/js/main.0b3ecaa9.js"
   ]
 }
