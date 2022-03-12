@@ -5,7 +5,7 @@ const UpBtn = () => {
   const [isVisible, setIsVisible] = useState(false);
 
   const toggleVisibility = () => {
-    if (window.scrollY > 500) setIsVisible(true);
+    if (window.scrollY > 300) setIsVisible(true);
     else setIsVisible(false);
   };
 
