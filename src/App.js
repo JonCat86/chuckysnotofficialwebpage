@@ -8,6 +8,7 @@ import Error404 from "./components/error404/Error404";
 import Nav from "./components/nav/Nav";
 import TitleBar from "./components/titleBar/TitleBar";
 import Footer from "./components/footer/Footer";
+import UpBtn from "./components/upBtn/UpBtn";
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Route path="*" element={<Error404 />} />
       </Routes>
       <Footer />
+      <UpBtn />
     </HashRouter>
   );
 }

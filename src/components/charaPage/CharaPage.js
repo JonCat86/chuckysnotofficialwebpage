@@ -7,7 +7,13 @@ const CharaPage = () => {
     <section className="chara-page">
       <div className="chara-top"></div>
       {texts.map((el) => (
-        <Chara name={el.name} pic={el.pic} films={el.films} comment={el.text} />
+        <Chara
+          key={el.key}
+          name={el.name}
+          pic={el.pic}
+          films={el.films}
+          comment={el.text}
+        />
       ))}
     </section>
   );

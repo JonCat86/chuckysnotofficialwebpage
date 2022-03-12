@@ -1,0 +1,19 @@
+.up-btn {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  bottom: 10px;
+  right: 10px;
+  background: #500;
+  border: 3px #fff solid;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.up-btn > h4 {
+  color: #ddd;
+  font-size: 22px;
+}

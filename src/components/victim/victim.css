@@ -177,8 +177,8 @@
 
   .victim-back-text {
     width: 100%;
-    height: 56%;
-    padding: 5px;
+    height: 160px;
+    padding: 3px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -188,12 +188,12 @@
   }
 
   .victim-back-text > h2 {
-    height: 30px;
+    height: 20px;
     font-size: 18px;
   }
 
   .victim-back-text > h4 {
-    height: 26px;
+    height: 18px;
     font-size: 14px;
   }
 
